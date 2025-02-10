@@ -23,18 +23,8 @@ Es werden public Dashboards und Dashboards für geschlossene Benutzergruppen ers
 * Kubernetes 1.23+
 * Helm 3.8.0+
 
-### Helm Install 
-
-## Installation
-
-TBD
+### Helm Install
+Die Installation erfolgt mittels des Bitnami Helm Charts. Die entsprechenden parameter sind dem originalen Chart zu entnehmen.
 
 ## Parameter
 Die wichtigen Parameter werden im values.yaml konfiguriert.
-
-
-## Enviroment Variablen
-
-## License
-
-Grafana is distributed under AGPL-3.0-only. For Apache-2.0 exceptions, see LICENSING.md.
